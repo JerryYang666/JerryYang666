@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JerryYang666
-- 👀 I’m interested in building interesting web apps
-- 🌱 I’m currently learning neuroscience
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in building exciting web apps, analyzing biology data with Python, and writing fun programs.
+- 🌱 I’m currently learning Neuroscience, Bussiness Management, and Entrepreneurship
+- 💞️ I’m looking to collaborate on anything fun.
+- 📫 How to reach me rxy216@case.edu
 
 <!---
 JerryYang666/JerryYang666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
